@@ -1,0 +1,3 @@
+train: E:/DSX/UnderwaterFishDetection/fish/train/images
+val: E:/DSX/UnderwaterFishDetection/fish/valid/images
+test: E:/DSX/UnderwaterFishDetection/fish/test/images

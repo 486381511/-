@@ -1,0 +1,7 @@
+train: E:/DSX/UnderwaterFishDetection/fish/train/images
+val: E:/DSX/UnderwaterFishDetection/fish/valid/images
+test: E:/DSX/UnderwaterFishDetection/fish/test/images
+
+nc: 1
+names: ['fish']
+
