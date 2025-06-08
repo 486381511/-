@@ -13,5 +13,6 @@
 2. 在图形界面中填写或选择相关参数（例如模型路径件等）。
 3. 点击开始，系统将自动完成检测并输出结果。
 
-## 演示
-[🎬 点击查看检测视频演示](GithubMd/video.mkv)
+## 演示视频
+[![点击观看检测演示视频](https://img.youtube.com/vi/9lZH0lhlWE8/0.jpg)](https://youtu.be/9lZH0lhlWE8)
+
